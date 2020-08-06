@@ -1,3 +1,5 @@
+
+[![Build Status](https://srinivasmarthi.visualstudio.com/airlines/_apis/build/status/srinumarti.ContosoAir?branchName=master)](https://srinivasmarthi.visualstudio.com/airlines/_build/latest?definitionId=7&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
